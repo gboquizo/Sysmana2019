@@ -1,0 +1,24 @@
+PINN System Resize:	
+
+https://pinn.mjh.nz/
+
+Jugando con la Raspberry Pi - Varios sistemas con PINN:
+
+https://www.frikisdeatar.com/jugando-con-la-raspberry-pi-varios-sistemas-con-pinn/ 
+
+Repositorio de PINN:
+
+https://github.com/procount/pinn
+
+Descarga de PINN:
+
+https://sourceforge.net/projects/pinn/files/pinn-lite.zip/download
+
+SD Card Formatter:
+
+https://www.sdcard.org/downloads/formatter_4/
+
+Presentación en Sway:
+
+https://sway.office.com/NFTHVUc8jsRCnj2f?ref=Link
+
